@@ -1,4 +1,7 @@
-# squaregame
+###### Code Nation Assignment ######
+
+
+# Square Game
 
 A simple game in which the user tries to find two matching colored squares. Win by luck!
 
